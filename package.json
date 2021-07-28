@@ -1,0 +1,25 @@
+{
+  "name": "OkavangoFoods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodemon server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DalitsoKasonde/OkavangoFoods.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DalitsoKasonde/OkavangoFoods/issues"
+  },
+  "homepage": "https://github.com/DalitsoKasonde/OkavangoFoods#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
